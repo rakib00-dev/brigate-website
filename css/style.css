@@ -1059,6 +1059,7 @@ section.ourNews {
 
 .footerCopy p {
   float: left;
+  font-size: 14px;
 }
 
 .footerCopy ul {
@@ -1074,7 +1075,7 @@ section.ourNews {
 .footerCopy span a {
   color: #fb5200;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 .footerCopy span a:hover {
